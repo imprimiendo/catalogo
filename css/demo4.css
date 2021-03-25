@@ -47,7 +47,7 @@
 	align-items: center;
 }
 
-.bb-custom-side img{
+.bb-custom-side img, .bb-custom-side video{
 	width: auto;
 	height: 100%;
 }
